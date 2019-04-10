@@ -1,7 +1,6 @@
 body {
 	margin: 0;
 	transition: .5s all;
-	color: #fff;
 }
 
 body.night {
